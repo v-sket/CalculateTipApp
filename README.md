@@ -21,8 +21,8 @@ The following **required** entry input (aka **try..catch**) is tested:
 
 The following **extensions** are implemented:
 
-* [ ]
-* [ ] 
+* [x] ..
+* [x] .. 
 
 ## Notes
 
