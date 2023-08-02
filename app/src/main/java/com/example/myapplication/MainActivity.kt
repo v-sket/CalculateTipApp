@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun afterTextChanged(s: Editable?) {
-                Log.i(TAG, "afterTextChaged $s")
+                Log.i(TAG, "afterTextChanged $s")
                 computeTipAndTotal()
             }
         })
